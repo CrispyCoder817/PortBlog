@@ -1,0 +1,64 @@
+h1 {
+    Color: #61dafb;
+    text-align: Center;
+  }
+  
+  p {
+    text-align: left;
+    margin: 1vh;
+  }
+  
+  .container {
+   display:inline-flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+  }
+  
+  .orgo {
+    flex-wrap: wrap;
+    flex-shrink: inherit;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 1rem;
+  width: fit-content;
+  margin: 4vh;
+  padding: 2vh;
+  height: fit-content;
+  background-color: rgb(69, 69, 69);
+  box-shadow:  rgb(36, 36, 36) 5px 10px;
+  }
+  
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 10vh;
+    min-width: 10vh;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(5px + 2vmin);
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  /* 
+  filter: drop-shadow(30px 10px 4px #4444dd); */

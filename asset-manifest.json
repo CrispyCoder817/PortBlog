@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portblog/static/css/main.bcce6c82.css",
+    "main.js": "/portblog/static/js/main.dd3d5305.js",
+    "static/js/787.37cef866.chunk.js": "/portblog/static/js/787.37cef866.chunk.js",
+    "index.html": "/portblog/index.html",
+    "main.bcce6c82.css.map": "/portblog/static/css/main.bcce6c82.css.map",
+    "main.dd3d5305.js.map": "/portblog/static/js/main.dd3d5305.js.map",
+    "787.37cef866.chunk.js.map": "/portblog/static/js/787.37cef866.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bcce6c82.css",
+    "static/js/main.dd3d5305.js"
+  ]
+}

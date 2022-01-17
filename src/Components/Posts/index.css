@@ -1,0 +1,12 @@
+.container {
+    margin: 5vw 5vh ;
+    padding: 5vw 5vh;
+    border-radius: 15px;
+    background-color: brown;
+    width:fit-content;
+    height: fit-content;
+}
+.HeadLiners {
+    Color: #61dafb;
+    margin: 1vw 1vh;
+}

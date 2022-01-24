@@ -1,5 +1,4 @@
-import defaults from "nodemon/lib/config/defaults";
-import React from "react";
+import React, { Art }from "react";
 import Posts from '../../Components/Posts';
 
 

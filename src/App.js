@@ -9,6 +9,7 @@ import './App.css';
 function App() {
   return (
     <div>
+    <div className="darkness">
     <Router>
     <NavBar/>
       <Routes>
@@ -17,6 +18,7 @@ function App() {
       <Route exact='/Stories' element={<Stories/>} exact/>
       </Routes>
     </Router>
+    </div>
     </div>
   );
 }

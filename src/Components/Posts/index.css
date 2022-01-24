@@ -1,12 +1,15 @@
 .container {
+    min-width: 10vw;
+    max-width: 50vw;
+    min-height: 10vh;
     margin: 5vw 5vh ;
     padding: 5vw 5vh;
     border-radius: 15px;
-    background-color: brown;
+    background-color: rgb(150, 150, 150);
     width:fit-content;
     height: fit-content;
 }
 .HeadLiners {
-    Color: #61dafb;
+    Color: whitesmoke;
     margin: 1vw 1vh;
 }

@@ -53,6 +53,21 @@ function Blog() {
                 Dinner was an entirely fresh experience for the same thing we've done so many times. Absolutely magical.
               </p>
             </div>
+            <div className="orgo">
+              <h2>Pushing through</h2>
+              <p>
+                Today creates a new reality for tomorrow. What you do today impacts the rest of your life. I recently heard a quote from Mr. Denzel Washington about the ghosts that are at our deathbed.
+                It made me think deep upon the idea - imagine the people you could have become had you pushed on a little bit more in your hardships as ghosts at your death bed. It blew rattled my current situation and convinced me further to puruse harder and figure it out until it's done.
+                We are creatures of habit - thus bad habits create a lesser life than what we would have if we only pushed a little bit more each day to our actual goals. Stop worrying about making someone else's dream happen and burning yourself out for your own dreams.
+                My dream is to be a website application developer through react and the only way I'll get there is to keep working on this website until it lands me the next step in my future. If it takes me every lunch period I have so be it; at the least I'm keeping myself up and at it.
+                We only fail when we give up on pushing through. As someone once said - 'lessons are taught until they are learned.' Will you keep learning or will you absorb the knowledge and figure it out for the next task that is adequate of your blood, sweat and tears?
+                Whether you can or can't you will. 
+              </p>
+            </div>
+            <div className="orgo">
+              <h2>What it's all about</h2>
+              <p></p>
+            </div>
           </div>
         </header>
       </div>

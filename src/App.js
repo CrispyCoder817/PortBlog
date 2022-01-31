@@ -5,6 +5,7 @@ import Home from './Pages/Home';
 import Blog from "./Pages/Blog";
 import Stories from './Pages/Stories';
 import './App.css';
+import { gsap } from "gsap";
 
 function App() {
   return (

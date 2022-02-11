@@ -123,7 +123,19 @@ function Blog() {
                   Inner focus is a variable for all and should not be slept on. Know when to distract from the goal so the goal chase can always be a fresh instance. Rituals of focus are neccesary to ensure sucess.
                   There are billions of distractions; choose wisely. You could be sitting watching netflix for two hours or you could be out there learning a new skill for a new tomorrow.
                   Find someone who loves you so much they're willing to change their entire life around so you can go be better. It doesn't fit all the niches of a ideal relationship, but ideal is for the bird; pick whatever works for you the best.
-                  
+                </p>
+              </div>
+              <div className="orgo">
+                <h2>Eye-Bee-Em</h2>
+                <p>
+                Yesterday the day consisted of absolute anxiousness followed by the biggest interview of my life to date then went on to be a relaxing day.
+                I don't know if I prepared enough, but I still managed to feel like a job well done. Either way of getting the new job or finding another route; I learned a great deal of information.
+                First, big companies care about their employees if they're doing it right - EyeBeeEm does that to a T. I've never applied or interviewed for a place that seems to take such fine care of the people who make their company propserous.
+                Second, that was one of the most relaxing interviews I've ever been apart of and it was from one of the biggest, if not biggest name in tech - ever! They were two amazing interviewers that I'd be working directly with if offered a job.
+                I almost started crying after the interview ended because it went so well for such a huge deal. I am hesistant to offer out my excitement as I've been let down time and time again from companies, but today is the day I figure that I am worth the time and effort to be great.
+                They are willing to give me, and enforce professional development - what a catch! the company internally magnifies the skill force of all their employees and grants them the opportunity to put in and get out as much equally. NEVER happened to me ever before.
+                The biggest takeaway from this is that working at a place where you're at the bottom and the top at the same time is great for the first career job - after that go find something that builds your blocks up vertically instead of spreading thin across a never ending horizon.
+                It takes a great deal of courage to find a place and go for the gusto - it's absolutely worth it.
                 </p>
               </div>
           </div>

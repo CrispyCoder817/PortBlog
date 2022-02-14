@@ -5,25 +5,20 @@ h1 {
   
   p {
     text-align: left;
-    margin: 1vh;
+    margin: .5vh;
   }
   
   .container {
-   display:inline-flex;
-   flex-direction: column;
-   flex-wrap: wrap;
+    overflow-y: scroll;
+    max-width: 66vw;
+    max-height: 80vh;
+    background-color: #282c34;
   }
   
   .orgo {
-    flex-wrap: wrap;
-    flex-shrink: inherit;
-    width: fit-content;
-    height: fit-content;
-    border-radius: 1rem;
-  width: fit-content;
-  margin: 4vh;
-  padding: 2vh;
-  height: fit-content;
+  border-radius: 1rem;
+  margin: 1vw 1.5vh;
+  padding: 1vw 2vh;
   background-color: rgb(69, 69, 69);
   box-shadow:  rgb(36, 36, 36) 5px 10px;
   }
@@ -47,7 +42,7 @@ h1 {
     font-size: calc(5px + 2vmin);
   }
   
-  .App-link {
+  /* .App-link {
     color: #61dafb;
   }
   
@@ -58,7 +53,7 @@ h1 {
     to {
       transform: rotate(360deg);
     }
-  }
+  } */
   
   /* 
   filter: drop-shadow(30px 10px 4px #4444dd); */

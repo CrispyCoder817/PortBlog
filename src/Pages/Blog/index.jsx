@@ -5,7 +5,7 @@ import './index.css';
 function Blog() {
   return (
     <div>
-      <div className="App">
+      <div className="container">
         <header className="App-header">
           <div>
             <div className='orgo'>
@@ -159,7 +159,20 @@ function Blog() {
                 There is not much more else that I could imagine doing than to get payed for coding - the whole graphic design career is seemingly dead to me. Working at small business locations expected to do 300% pace until the match is all burnt up is for the birds. I continue to ask for help of any sort and it's met with 'we're going to have to get this system down first then consider that option'
                 Whic is rough because that's basically saying free beer tomorrow at a bar.
               </p>
-
+              </div>
+              <div className="orgo">
+                <h2>Value</h2>
+                <p>
+                  Last night during the near end of the superbowl I found myself lacking vaule from my current place of employment. It rattled me really hard - alcohol didn't help either. 
+                  I kept upping my own asking price as time went on knowing all the objectives I have created for this shit hole of a fucking place.
+                  I'm running at 300% pace and there is no end in sight. I keep asking about a second person but they dodge it every time. I'm really not concerned with that as much as the lacking of actual pricing they give out.
+                  I still can't beleive I was cornered the way I was the other day. Like how the hell does someone do that and expect things to be smooth - this is a business and using the whole family stick to wave around for easier manipulative maneuvers is absolute trash.
+                  There's nothing more important to me than free time after work - I can work on my project(s) continue my growth as a developer which seems to be an ever more uphill battle that the bootcamp only started - which is great. My favorite philosopher said it best "stay unfinished." This entails all things imagined - schooling, life, etc.
+                  What's that mean for us rings my bell everytime I think of the most uncomfortable situation that involved me at a company, ever. What does that mean for you? First, stop working me to the bone marrow - I've done that enough at the last place.
+                  Last night I said some things to my best friends about supporting me - they were absolutely right, I was wrong - but my feeling of undervalue never let up. 
+                  I should ask for a raise, but I'm still not sure how much I should be asking until this website goes for gold. The website will only cause more headeache and I still don't know the value of it's use without thinking of it as an updateable catalog - for all the time, effort and stress is not worth much. 
+                  It'd be much quicker to simply get a phone call asking for stuff than it would taking website orders and it being missed.
+                </p>
             </div>
           </div>
         </header>

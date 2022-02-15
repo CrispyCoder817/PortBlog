@@ -174,6 +174,18 @@ function Blog() {
                   It'd be much quicker to simply get a phone call asking for stuff than it would taking website orders and it being missed.
                 </p>
             </div>
+            <div className="orgo">
+                <h2>Rollercoaster</h2>
+                <p>
+                  These past few days granted myself a free ticket to ride the rolloercoaster of life. A neverending story of ups and downs, twists and turns, a rush with a petrified state on the backburner.
+                  I ended up on top for now - at least whilst writing this post. Interview was fantastic, getting cornered by my current boss about shopping around for a new job. Realizing how far I am behind where I need to be for my current application process.
+                  Starting something new in order to get back ahead after realzing how stressful situations are the biggest rocking chair of life. Figuring out how to get ahead and then fumbling around my current situation in rage of ultimatums. To having a brand new opportunity present itself out of the blue after missing the phone call.
+                  To telling as many people as I trust the potential good news about my current situation so they don't have to worry about me. I hate having people worry about me, but at the same time it's nice to see people care. 
+                  That's the tough divide - wanting but not at the same time.
+                  Where does the world go? We all live for a few seconds in the grand scheme of reality to all die alone.
+                  Why?
+                </p>
+            </div>
           </div>
         </header>
       </div>
